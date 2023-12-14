@@ -32,12 +32,12 @@
  * ---------------------------------------------
  */
  @font-face {
-    font-family: 'Continuum-Medium';
+    font-family: 'Continuum Medium';
     src: url('assets/Fonts/contm.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Continuum-Light';
+    font-family: 'Continuum Light';
     src: url('assets/Fonts/contm.ttf') format('truetype');
 }
 
